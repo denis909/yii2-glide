@@ -14,6 +14,6 @@
         }
     },
     "require": {
-        "trntv/yii2-glide": "*",
+        "trntv/yii2-glide": "*"
     }
 }
